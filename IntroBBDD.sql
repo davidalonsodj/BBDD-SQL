@@ -9,7 +9,7 @@ WHERE total_amount >= 100000;
 --MODELOS AVIONES
 SELECT *
 FROM
-aircraft_data;
+aircrafts;
 --BOING 737
 SELECT flight_id, flight_no
 FROM flights
