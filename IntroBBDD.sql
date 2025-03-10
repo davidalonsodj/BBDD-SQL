@@ -13,7 +13,7 @@ aircrafts;
 --BOING 737
 SELECT flight_id, flight_no
 FROM flights
-WHERE aircraft_code = 737;
+WHERE aircraft_code = '737';
 --DETALLE TICKETS
 SELECT *
 FROM tickets
